@@ -165,9 +165,9 @@ export default function OrderConfirmation({ navigate, params }: Props) {
 
       {/* Footer */}
       <div className="bg-[#C2185B] mx-4 mb-6 rounded-2xl px-5 py-5 text-center">
-        <p className="text-white font-black text-[16px] tracking-widest mb-1">LAITHWAITES</p>
+        <p className="text-white font-black text-[16px] tracking-widest mb-1">WINE SHOPPING ONLINE</p>
         <p className="text-white/50 text-[10px] leading-relaxed">
-          Laithwaites is part of Direct Wines Ltd.<br/>
+          Wine Shopping Online is part of Direct Wines Ltd.<br/>
           Registered in England &amp; Wales 1095091.
         </p>
         <p className="text-white/30 text-[10px] mt-2">bedrinkaware.co.uk</p>

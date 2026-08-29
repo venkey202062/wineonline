@@ -279,7 +279,7 @@ export default function CheckoutPayment({ navigate, checkoutData, setCheckoutDat
             </svg>
           </div>
           <div>
-            <p className="font-black text-[14px] text-[#0d1912]">Create your Laithwaites account</p>
+            <p className="font-black text-[14px] text-[#0d1912]">Create your Wine Shopping Online account</p>
             <p className="text-[12px] text-[#5a6860] mt-0.5">
               Save your details, track orders, and access exclusive member offers.
             </p>
@@ -301,7 +301,7 @@ export default function CheckoutPayment({ navigate, checkoutData, setCheckoutDat
           },
           {
             checked: newsOk, toggle: () => setNewsOk(!newsOk),
-            text: "I would like to receive exclusive offers, wine recommendations, and news from Laithwaites by email.",
+            text: "I would like to receive exclusive offers, wine recommendations, and news from Wine Shopping Online by email.",
           },
         ].map((item, i) => (
           <div key={i} className="flex items-start gap-3">

@@ -8,7 +8,7 @@ export function LWLogo({ dark = false, size = "md" }: { dark?: boolean; size?: "
       style={{ fontWeight: 900, letterSpacing: "0.08em" }}
       className={`${sz} tracking-widest ${dark ? "text-white" : "text-[#C2185B]"}`}
     >
-      LAITHWAITES
+      WINE SHOPPING ONLINE
     </span>
   );
 }

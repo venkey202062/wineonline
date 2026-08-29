@@ -195,7 +195,7 @@ function AccountScreen({ navigate, goBack }: { navigate: (s: string, p?: any) =>
   return (
     <div className="screen-content bg-white">
       <div className="bg-[#C2185B] px-5 pt-safe-top pb-10">
-        <p className="text-white font-black text-[26px] tracking-widest mb-1">LAITHWAITES</p>
+        <p className="text-white font-black text-[26px] tracking-widest mb-1">WINE SHOPPING ONLINE</p>
         <p className="text-white/60 text-[14px]">Sign in to your account</p>
       </div>
       <div className="mx-4 -mt-5 card p-5 space-y-4 relative z-10 mb-4">
@@ -227,7 +227,7 @@ function AccountScreen({ navigate, goBack }: { navigate: (s: string, p?: any) =>
           Sign in
         </button>
         <p className="text-center text-[13px] text-[#5a6860]">
-          New to Laithwaites?{" "}
+          New to Wine Shopping Online?{" "}
           <button className="font-bold text-[#C2185B] underline">Create account</button>
         </p>
       </div>

@@ -198,7 +198,7 @@ export default function HomeScreen({ navigate }: Props) {
         {/* Trust row */}
         <div className="px-5 mb-6">
           <div className="card p-4">
-            <h3 className="font-black text-[16px] text-[#0d1912] mb-3">Why Laithwaites?</h3>
+            <h3 className="font-black text-[16px] text-[#0d1912] mb-3">Why Wine Shopping Online?</h3>
             <div className="grid grid-cols-2 gap-2.5">
               {[
                 { e: "💰", t: "100% Money-back", s: "No questions asked" },
